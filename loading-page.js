@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener('DOMContentLoaded', function() {
     // Simulate a loading delay (optional)
     setTimeout(function() {
