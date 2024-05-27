@@ -44,9 +44,14 @@ body, html {
 }
 
 #start-button {
-    margin-top: 20px;
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 8px 14px;
+    border: none;
+    margin-right: 14px;
     cursor: pointer;
+    background-color: gray;
+    color: #f1f1f1;
+    border-radius: 16px;
+    transition: all 0.5s ease;
+    text-decoration: none;
 }
 
