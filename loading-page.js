@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Set a timeout to simulate loading delay
     setTimeout(function() {
         document.getElementById('loader').style.display = 'none';
         document.getElementById('start-button').style.display = 'block';
