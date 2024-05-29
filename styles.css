@@ -125,7 +125,6 @@ a.button {
     border-radius: 16px;
     text-decoration: none;
     transition: background-color 0.5s ease;
-    position: relative;
 }
 
 a.button:hover {
